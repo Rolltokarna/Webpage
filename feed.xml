@@ -3,12 +3,41 @@
     <title>Rolltokarna</title>
     <link href="https://Rolltokarna.se/feed.xml" rel="self" />
     <link href="https://Rolltokarna.se" />
-    <updated>2023-03-15T11:04:12+01:00</updated>
+    <updated>2023-03-15T11:34:06+01:00</updated>
     <author>
         <name>Rolltok</name>
     </author>
     <id>https://Rolltokarna.se</id>
 
+    <entry>
+        <title>Rolltokarnas Kalender</title>
+        <author>
+            <name>Rolltok</name>
+        </author>
+        <link href="https://Rolltokarna.se/rolltokarnas-kalender.html"/>
+        <id>https://Rolltokarna.se/rolltokarnas-kalender.html</id>
+
+        <updated>2023-03-15T11:34:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Klicka här för att se Rolltokarnas Kalender Normalt är det Rollträning Billdalsbadet varje Lördag 10:00, samling på grusplanen vid Sea Kayak Billdals skjul. Snart börjar Tisdagsträningarna men vi återkommer. Viktiga händelser 2023: Bassängträning i Fjärås Simhall: 18/3, 25/3, 1/4 samt 15/4 är du intresserad kontakta&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Klicka här för att se <a href="https://calendar.google.com/calendar/u/0?cid=cm9sbHRva2FybmFAZ21haWwuY29t">Rolltokarnas Kalender</a></p>
+<p>Normalt är det <strong>Rollträning Billdalsbadet varje Lördag 10:00</strong>, samling på grusplanen vid Sea Kayak Billdals skjul. Snart börjar Tisdagsträningarna men vi återkommer. </p>
+<p>Viktiga händelser 2023:</p>
+<ul>
+<li>Bassängträning i Fjärås Simhall: 18/3, 25/3, 1/4 samt 15/4<br>är du intresserad kontakta Andreas Zander</li>
+<li>Rolltoksdagen 27/5 - Billdalsbadet Roll och skoj. </li>
+<li><a href="https://lackokajaktraff.se/">Läcköträffen</a> - Rolltokarna har rolluppvisning lördag 1/6 </li>
+<li>SM i Grönlandsroll, tja Riksmästerskap i alla fall! TBD</li>
+<li>DM (Danska Mästerskap) i Grönlandsroll (19-20/8) TBC</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kontakt</title>
         <author>
