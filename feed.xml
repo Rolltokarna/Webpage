@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Rolltokarna</title>
+    <link href="https://Rolltokarna.se/feed.xml" rel="self" />
+    <link href="https://Rolltokarna.se" />
+    <updated>2023-03-14T12:01:51+01:00</updated>
+    <author>
+        <name>Rolltok</name>
+    </author>
+    <id>https://Rolltokarna.se</id>
+
+    <entry>
+        <title>Om Rolltokarna</title>
+        <author>
+            <name>Rolltok</name>
+        </author>
+        <link href="https://Rolltokarna.se/om-rolltokarna.html"/>
+        <id>https://Rolltokarna.se/om-rolltokarna.html</id>
+
+        <updated>2023-03-14T12:01:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Rolltokarna håller till i Billdal i södra Göteborg. Vi tränar Grönlandsroll lördagar 10:00 - 12:00 vid Billdalsbadet. Vårt mål är att alla som paddlar kajak ska kunna de vanligaste Grönlandsrollarna i de flesta situationer.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Rolltokarna håller till i Billdal i södra Göteborg. Vi tränar Grönlandsroll lördagar 10:00 - 12:00 vid Billdalsbadet. Vårt mål är att alla som paddlar kajak ska kunna de vanligaste Grönlandsrollarna i de flesta situationer. </p>
+<figure class="post__image"><img loading="lazy"  src="https://Rolltokarna.se/media/posts/1/verical-sculling-2.jpg" alt="" width="3840" height="2160" sizes="100vw" srcset="https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-xs.jpg 300w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-sm.jpg 480w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-md.jpg 768w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-lg.jpg 1024w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-xl.jpg 1360w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
