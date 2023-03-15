@@ -11,18 +11,32 @@
     },
     "items": [
         {
+            "id": "https://Rolltokarna.se/kontakt.html",
+            "url": "https://Rolltokarna.se/kontakt.html",
+            "title": "Kontakt",
+            "summary": "Normalt kan du kontakta vem som helst i Styrelsen med de flesta frågor. Idrottsansvarig är David som också är med på de allra flesta träningarna. email: Rolltokarna@gmail.com Facebook: Rolltokarna Styrelsen 2023 Ordförande Johanna Möllersten Vice Ordförande Johan Dewang Sekreterare Andreas Zander Kassör David Täng Ledamot&hellip;",
+            "content_html": "<p>Normalt kan du kontakta vem som helst i Styrelsen med de flesta frågor. Idrottsansvarig är David som också är med på de allra flesta träningarna.</p>\n<p>email: <a href=\"mailto:Rolltokarna@gmail.com\">Rolltokarna@gmail.com</a></p>\n<p>Facebook: <a href=\"https://www.facebook.com/groups/494950789052895\">Rolltokarna</a></p>\n<p>Styrelsen 2023<br>Ordförande         Johanna Möllersten<br>Vice Ordförande Johan Dewang<br>Sekreterare         Andreas Zander<br>Kassör                 David Täng<br>Ledamot              Henrik Wadsten</p>",
+            "author": {
+                "name": "Rolltok"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-15T11:04:12+01:00",
+            "date_modified": "2023-03-15T11:04:12+01:00"
+        },
+        {
             "id": "https://Rolltokarna.se/om-rolltokarna.html",
             "url": "https://Rolltokarna.se/om-rolltokarna.html",
             "title": "Om Rolltokarna",
-            "summary": "Rolltokarna håller till i Billdal i södra Göteborg. Vi tränar Grönlandsroll lördagar 10:00 - 12:00 vid Billdalsbadet. Vårt mål är att alla som paddlar kajak ska kunna de vanligaste Grönlandsrollarna i de flesta situationer.",
-            "content_html": "<p>Rolltokarna håller till i Billdal i södra Göteborg. Vi tränar Grönlandsroll lördagar 10:00 - 12:00 vid Billdalsbadet. Vårt mål är att alla som paddlar kajak ska kunna de vanligaste Grönlandsrollarna i de flesta situationer. </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://Rolltokarna.se/media/posts/1/verical-sculling-2.jpg\" alt=\"\" width=\"3840\" height=\"2160\" sizes=\"100vw\" srcset=\"https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-xs.jpg 300w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-sm.jpg 480w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-md.jpg 768w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-lg.jpg 1024w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-xl.jpg 1360w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-2xl.jpg 1600w\"></figure>",
+            "summary": "Rolltokarna håller till i Billdal i södra Göteborg. Vi tränar Grönlandsroll lördagar 10:00 - 12:00 vid Billdalsbadet. På den ljusa delen av året tränar vi även Tisdagar 17-19. Vårt mål är att alla som paddlar kajak ska kunna de vanligaste Grönlandsrollarna i de flesta situationer.",
+            "content_html": "<p>Rolltokarna håller till i Billdal i södra Göteborg. Vi tränar Grönlandsroll lördagar 10:00 - 12:00 vid Billdalsbadet. På den ljusa delen av året tränar vi även Tisdagar 17-19. Vårt mål är att alla som paddlar kajak ska kunna de vanligaste Grönlandsrollarna i de flesta situationer. </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://Rolltokarna.se/media/posts/1/verical-sculling-2.jpg\" alt=\"\" width=\"3840\" height=\"2160\" sizes=\"100vw\" srcset=\"https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-xs.jpg 300w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-sm.jpg 480w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-md.jpg 768w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-lg.jpg 1024w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-xl.jpg 1360w ,https://Rolltokarna.se/media/posts/1/responsive/verical-sculling-2-2xl.jpg 1600w\"></figure>",
             "author": {
                 "name": "Rolltok"
             },
             "tags": [
             ],
             "date_published": "2023-03-14T11:55:53+01:00",
-            "date_modified": "2023-03-14T12:01:51+01:00"
+            "date_modified": "2023-03-15T10:56:19+01:00"
         }
     ]
 }
