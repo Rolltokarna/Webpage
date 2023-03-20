@@ -3,7 +3,7 @@
     <title>Rolltokarna</title>
     <link href="https://Rolltokarna.se/feed.xml" rel="self" />
     <link href="https://Rolltokarna.se" />
-    <updated>2023-03-20T15:43:29+01:00</updated>
+    <updated>2023-03-20T15:55:38+01:00</updated>
     <author>
         <name>Rolltok</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://Rolltokarna.se/rolltokarnas-kalender.html"/>
         <id>https://Rolltokarna.se/rolltokarnas-kalender.html</id>
 
-        <updated>2023-03-20T15:43:29+01:00</updated>
+        <updated>2023-03-20T15:55:38+01:00</updated>
             <summary>
                 <![CDATA[
-                    Klicka här för att se Rolltokarnas Kalender Normalt är det Rollträning Billdalsbadet varje Lördag 10:00, samling på grusplanen vid Sea Kayak Billdals skjul. Snart börjar Tisdagsträningarna och vi meddelar när det drar igång. Hitta hit Viktiga händelser 2023: Bassängträning i Fjärås Simhall (09.00-11.00): 18/3 25/3&hellip;
+                    Klicka här för att se Rolltokarnas Kalender Normalt är det Rollträning Billdalsbadet varje Lördag 10:00, samling på grusplanen vid Sea Kayak Billdals skjul. Snart börjar Tisdagsträningarna och vi meddelar när det drar igång. Hitta hit Viktiga händelser 2023: Kalender:
                 ]]>
             </summary>
         <content type="html">
@@ -42,6 +42,10 @@
 <li>SM i Grönlandsroll, tja Riksmästerskap i alla fall! TBD</li>
 <li>DM (Danska Mästerskap) i Grönlandsroll (19-20/8) TBC</li>
 </ul>
+<p> </p>
+<p>Kalender:</p>
+<div class="post__iframe"><iframe loading="lazy" width="800" height="600" style="border: 0;" src="https://calendar.google.com/calendar/embed?src=rolltokarna%40gmail.com&amp;ctz=Europe%2FStockholm" frameborder="0" scrolling="no"></iframe></div>
+<p> </p>
 <figure class="post__video"></figure>
             ]]>
         </content>
