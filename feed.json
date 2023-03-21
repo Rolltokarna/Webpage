@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://Rolltokarna.se/medlemskap.html",
+            "url": "https://Rolltokarna.se/medlemskap.html",
+            "title": "Medlemskap",
+            "summary": "På föreningens konstituerande årsmöte fastställdes medlemsavgiften till 200:- för 2023. Medlemskap i föreningen erhålles genom att:",
+            "content_html": "<p>På föreningens konstituerande årsmöte fastställdes medlemsavgiften till 200:- för 2023. Medlemskap i föreningen erhålles genom att:</p>\n<ul>\n<li>Swisha 200:- till David Täng, 0709-876824.\n<ul>\n<li>Ange RT2023 och ditt namn i Meddelande-fältet.</li>\n</ul>\n</li>\n<li>Maila Andreas Zander:\n<ul>\n<li><a href=\"mailto:andreas.zander@gmail.com\">andreas.zander@gmail.com</a></li>\n<li>Ange ämne: RT2023 och ditt namn</li>\n<li>Skicka Telefonnummer och E-mailadress</li>\n</ul>\n</li>\n</ul>\n<p> </p>",
+            "author": {
+                "name": "Rolltok"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-21T21:05:15+01:00",
+            "date_modified": "2023-03-21T21:05:15+01:00"
+        },
+        {
             "id": "https://Rolltokarna.se/rolltokarnas-kalender.html",
             "url": "https://Rolltokarna.se/rolltokarnas-kalender.html",
             "title": "Kalender",
