@@ -3,21 +3,41 @@
     <title>Rolltokarna</title>
     <link href="https://Rolltokarna.se/feed.xml" rel="self" />
     <link href="https://Rolltokarna.se" />
-    <updated>2023-03-28T16:54:45+02:00</updated>
+    <updated>2023-04-11T13:33:19+02:00</updated>
     <author>
         <name>Rolltok</name>
     </author>
     <id>https://Rolltokarna.se</id>
 
     <entry>
-        <title>Medlemskap</title>
+        <title>Träningar</title>
+        <author>
+            <name>Rolltok</name>
+        </author>
+        <link href="https://Rolltokarna.se/traeningar.html"/>
+        <id>https://Rolltokarna.se/traeningar.html</id>
+
+        <updated>2023-04-11T13:33:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Nu så här efter Påsk så drar vi igång med Tisdagsträningarna igen. Träffas vid Parkeringen Billdalsbadet (Skjulet) 17.00. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Nu så här efter Påsk så drar vi igång med Tisdagsträningarna igen. Träffas vid Parkeringen Billdalsbadet (Skjulet) 17.00. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Medlemsskap</title>
         <author>
             <name>Rolltok</name>
         </author>
         <link href="https://Rolltokarna.se/medlemskap.html"/>
         <id>https://Rolltokarna.se/medlemskap.html</id>
 
-        <updated>2023-03-26T07:32:23+02:00</updated>
+        <updated>2023-04-11T13:31:37+02:00</updated>
             <summary>
                 <![CDATA[
                     På föreningens konstituerande årsmöte fastställdes medlemsavgiften till 200:- för 2023. Medlemskap i föreningen erhålles genom att: Swisha 200:- till David Täng, 0709-876824. Ange RT2023 och ditt namn i Meddelande-fältet. Maila Andreas Zander: andreas.zander@gmail.com Ange ämne: RT2023 och ditt namn Skicka Telefonnummer och E-mailadress

@@ -11,9 +11,23 @@
     },
     "items": [
         {
+            "id": "https://Rolltokarna.se/traeningar.html",
+            "url": "https://Rolltokarna.se/traeningar.html",
+            "title": "Träningar",
+            "summary": "Nu så här efter Påsk så drar vi igång med Tisdagsträningarna igen. Träffas vid Parkeringen Billdalsbadet (Skjulet) 17.00. ",
+            "content_html": "<p>Nu så här efter Påsk så drar vi igång med Tisdagsträningarna igen. Träffas vid Parkeringen Billdalsbadet (Skjulet) 17.00. </p>",
+            "author": {
+                "name": "Rolltok"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-11T13:33:19+02:00",
+            "date_modified": "2023-04-11T13:33:19+02:00"
+        },
+        {
             "id": "https://Rolltokarna.se/medlemskap.html",
             "url": "https://Rolltokarna.se/medlemskap.html",
-            "title": "Medlemskap",
+            "title": "Medlemsskap",
             "summary": "På föreningens konstituerande årsmöte fastställdes medlemsavgiften till 200:- för 2023. Medlemskap i föreningen erhålles genom att: Swisha 200:- till David Täng, 0709-876824. Ange RT2023 och ditt namn i Meddelande-fältet. Maila Andreas Zander: andreas.zander@gmail.com Ange ämne: RT2023 och ditt namn Skicka Telefonnummer och E-mailadress",
             "content_html": "<p style=\"margin: 0in; font-family: -apple-system; font-size: 14.4pt; color: #17181e;\"><span style=\"background: white;\">På föreningens konstituerande årsmöte fastställdes medlemsavgiften till 200:- för 2023. Medlemskap i föreningen erhålles genom att:</span></p>\n<ul style=\"direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in;\" type=\"disc\">\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle; color: #17181e;\"><span style=\"font-family: -apple-system; font-size: 14.4pt; background: white;\">Swisha 200:- till David Täng, 0709-876824.</span>\n<ul style=\"direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in;\" type=\"circle\">\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle; color: #17181e;\"><span style=\"font-family: -apple-system; font-size: 14.4pt; background: white;\">Ange RT2023 och ditt namn i Meddelande-fältet.</span></li>\n</ul>\n</li>\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle; color: #17181e;\"><span style=\"font-family: -apple-system; font-size: 14.4pt; background: white;\">Maila Andreas Zander:</span>\n<ul style=\"direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in;\" type=\"circle\">\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle; color: #17181e;\"><a href=\"mailto:andreas.zander@gmail.com\"><span style=\"font-family: -apple-system; font-size: 14.4pt; background: white;\">andreas.zander@gmail.com</span></a></li>\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle; color: #17181e;\"><span style=\"font-family: -apple-system; font-size: 14.4pt; background: white;\">Ange ämne: RT2023 och ditt namn</span></li>\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle; color: #17181e;\"><span style=\"font-family: -apple-system; font-size: 14.4pt; background: white;\">Skicka Telefonnummer och E-mailadress</span></li>\n</ul>\n</li>\n</ul>",
             "author": {
@@ -22,7 +36,7 @@
             "tags": [
             ],
             "date_published": "2023-03-26T07:32:23+02:00",
-            "date_modified": "2023-03-26T07:32:23+02:00"
+            "date_modified": "2023-04-11T13:31:37+02:00"
         },
         {
             "id": "https://Rolltokarna.se/rolltokarnas-kalender.html",
