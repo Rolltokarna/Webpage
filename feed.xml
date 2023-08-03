@@ -3,12 +3,38 @@
     <title>Rolltokarna</title>
     <link href="https://Rolltokarna.se/feed.xml" rel="self" />
     <link href="https://Rolltokarna.se" />
-    <updated>2023-08-03T10:39:43+02:00</updated>
+    <updated>2023-08-03T11:04:15+02:00</updated>
     <author>
         <name>Inlägg</name>
     </author>
     <id>https://Rolltokarna.se</id>
 
+    <entry>
+        <title>Rollar</title>
+        <author>
+            <name>Inlägg</name>
+        </author>
+        <link href="https://Rolltokarna.se/rollar.html"/>
+        <id>https://Rolltokarna.se/rollar.html</id>
+
+        <updated>2023-08-03T11:04:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Grönlandsroll är en teknik som har koppling till inuitisk tradition och kajakjakt på Grönland. Idag används rollen också som en räddningsteknik inom kajakpaddling och är en rolig färdighet att behärska för paddlare. Roll innebär att man på olika sätt rullar upp kajaken från en upp-och-ner-vänd&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Grönlandsroll är en teknik som har koppling till inuitisk tradition och kajakjakt på Grönland. Idag används rollen också som en räddningsteknik inom kajakpaddling och är en rolig färdighet att behärska för paddlare. Roll innebär att man på olika sätt rullar upp kajaken från en upp-och-ner-vänd position genom att använda kroppens rörelser och viss hjälp av paddeln. </p>
+<p>Tips på bra länkar:</p>
+<ul>
+<li>På vår medlem Davids webbplats, <a href="https://qajaqrolling.com/">qajaqrolling.com</a>, kan du läsa mer om och se klipp på rollar enligt den grönländska tävlingstraditionen.</li>
+<li>På webbplatsen <a href="https://qajaqrolls.com/rolling-list/">qajaqrolls.com</a> finns listan på <span class="ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">rollar som många av oss brukar ha på fördäck. Skriv ut och plasta in!</span></li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rolltoksdagen Höst 2023</title>
         <author>
