@@ -3,12 +3,36 @@
     <title>Rolltokarna</title>
     <link href="https://Rolltokarna.se/feed.xml" rel="self" />
     <link href="https://Rolltokarna.se" />
-    <updated>2024-12-03T20:10:48+01:00</updated>
+    <updated>2024-12-03T20:16:09+01:00</updated>
     <author>
         <name>Inlägg</name>
     </author>
     <id>https://Rolltokarna.se</id>
 
+    <entry>
+        <title>Årsmöte 2025</title>
+        <author>
+            <name>Inlägg</name>
+        </author>
+        <link href="https://Rolltokarna.se/arsmoete-2025.html"/>
+        <id>https://Rolltokarna.se/arsmoete-2025.html</id>
+
+        <updated>2024-12-03T20:16:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Save the date! Rolltokarnas årsmöte kommer att hållas den 23/2. Preliminärt kl 16.00! Formell kallelse med underlag etc kommer!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Save the date!</strong></p>
+<p>Rolltokarnas årsmöte kommer att hållas den 23/2. Preliminärt kl 16.00!</p>
+<p>Formell kallelse med underlag etc kommer!</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Roll-SM 2024</title>
         <author>
